@@ -1,1 +1,1 @@
-<img src="/">
+<img src="\javascript:alert(1)">
