@@ -1,4 +1,4 @@
-h1>HTML5 Video Streaming Demo</h1>
+<h1>HTML5 Video Streaming Demo</h1>
   <p>A demonstration of native HTML5 video capabilities with JavaScript controls and ImageKit video optimization.</p>
 
   <!-- Basic Video Example -->
