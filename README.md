@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Seventeen guards, seven knights
-<img src="https://stream.nehidny.cc/"></img>
+<img src="https://stream.nehidny.cc/logo.png" srcset="https://stream.nehidny.cc/ 480w"></img>
