@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
+<<style>
   body {
     background-color: #000000;
   }
