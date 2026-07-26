@@ -1,3 +1,4 @@
+<video class="demo-video" src="https://ik.imagekit.io/ikmedia/example_video.mp4" width="640" height="360" controls=""></video>
 <h1>HTML5 Video Streaming Demo</h1>
   <p>A demonstration of native HTML5 video capabilities with JavaScript controls and ImageKit video optimization.</p>
 
