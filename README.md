@@ -1,2 +1,2 @@
-<img src="data:image/png;base64,iVBORw0"
+<img src="º"
 >
