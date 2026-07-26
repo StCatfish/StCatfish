@@ -1,2 +1,1 @@
-<object data="/evil.example.svg"></object>
-<object data="nehidny.cc/logo.png"></object>
+<img src="/\evil.example.svg/">
