@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <a href="javascript:alert(0)">Hey</a>
 <a href="https://google.com" onhover="alert(1)">Heyo</a>
 </div>
+<noscript>hallow</noscript>
